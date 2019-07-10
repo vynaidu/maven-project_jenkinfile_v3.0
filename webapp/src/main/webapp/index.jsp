@@ -1,1 +1,1 @@
-Hello, World! This is through pipeline
+Hello, World! Pipeline example
