@@ -1,1 +1,1 @@
-Hello, World! Pipeline example updated
+Hello, World! Autobuild using pipeline
